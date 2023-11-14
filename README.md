@@ -10,5 +10,5 @@ Additionally, Friday is equipped to assist with network management by providing 
 
 The intuitive and user-friendly design of Friday makes it a valuable addition to your daily life, ensuring that entertainment, productivity, home management, and information retrieval are just a voice command away. This voice-activated personal assistant is set to become an indispensable part of your routine, providing unparalleled convenience and functionality at your verbal command.
 
-[<img src="https://img.youtube.com/vi/ERM9oqD43S8/hqdefault.jpg" width="600" height="300"
+[<img src="https://img.youtube.com/vi/ERM9oqD43S8/hqdefault.jpg"
 />](https://www.youtube.com/embed/ERM9oqD43S8)
