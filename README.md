@@ -12,3 +12,5 @@ The intuitive and user-friendly design of Friday makes it a valuable addition to
 
 
 ![Screenshot_2021-08-12-16-22-39-45](https://github.com/Ayush-kaithwas/FRIDAY/assets/81899363/380494c4-7f98-42b5-8400-526f7b419e7f)
+[![Watch the video](https://github.com/Ayush-kaithwas/FRIDAY/assets/81899363/380494c4-7f98-42b5-8400-526f7b419e7f)](https://www.youtube.com/watch?v=ERM9oqD43S8)
+
