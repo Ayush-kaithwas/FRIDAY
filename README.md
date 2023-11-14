@@ -2,6 +2,8 @@
 
 Introducing "Friday," your cutting-edge voice-activated personal assistant designed to revolutionize your daily routine. Crafted using Python programming, Friday is an all-encompassing assistant ready to cater to your every command, simply by using your voice.
 
+![this image](https://user-images.githubusercontent.com/81899363/282702098-9ba9843d-28ff-4dfd-8257-2c349a6c4778.jpg)
+
 With its advanced voice recognition capabilities, Friday can play your favorite songs, calculate equations on the fly, and provide real-time weather reports, all at your vocal request. Its ability to understand and execute tasks with accuracy and speed makes navigating your day effortless and efficient.
 
 Moreover, Friday extends its capabilities beyond the virtual realm, allowing you to seamlessly control your home appliances using simple voice commands. Adjust the temperature, dim the lights, or manage various smart devices with ease, transforming your space into a more convenient and efficient environment.
